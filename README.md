@@ -20,7 +20,7 @@ This program is written in Python and uses **Pandas**, a Python library for data
 
 ![capture](https://user-images.githubusercontent.com/33295958/43979494-e41a8e74-9cb8-11e8-9c7b-86105b80f018.JPG)
 
-4) If you have the Data-Visualization-Extraction program on your computer go to step #### else if not, you can download it from GitHub. Google it.
+4) If you have the Data-Visualization-Extraction program on your computer go to the next step if not, you can download it from GitHub. Google it.
 
 5) On the Spyder IDE, go to file --> open (top left corner. See below.)
 
