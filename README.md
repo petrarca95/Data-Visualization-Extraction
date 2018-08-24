@@ -39,7 +39,9 @@ This program is written in Python and uses **Pandas**, a Python library for data
 
 # Troubleshooting and Requirements
 **Important:** 
+
 a) Open the CSV file containing the data
+
 b) Make sure the title of the date column only contains the characters 'Date' (the server used to store data may add other characters like a semicolon)
 
 1) Files where data is stored has to be CSV (not excel)
