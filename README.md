@@ -43,7 +43,7 @@ This program is written in Python and uses **Pandas**, a Python library for data
 2) When files are entered, make sure to include extension (.xlsx, .csv, etc.)
 3) The files storing the data have to be in the same directory (folder) as all of the files that make up the program
 4) **Starting and ending time must be entered in the following format**
-    day/month/year hour:minute:second
+    month/day/year hour:minute:second
     
     
 
