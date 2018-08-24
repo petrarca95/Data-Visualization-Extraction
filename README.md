@@ -38,12 +38,16 @@ This program is written in Python and uses **Pandas**, a Python library for data
 
 
 # Troubleshooting and Requirements
+**Important:** 
+a) Open the CSV file containing the data
+b) Make sure the title of the date column only contains the characters 'Date' (the server used to store data may add other characters like a semicolon)
 
 1) Files where data is stored has to be CSV (not excel)
 2) When files are entered, make sure to include extension (.xlsx, .csv, etc.)
 3) The files storing the data have to be in the same directory (folder) as all of the files that make up the program
 4) **Starting and ending time must be entered in the following format**
     month/day/year hour:minute:second
+ 
     
     
 
